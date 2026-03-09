@@ -95,17 +95,6 @@ https://proyecto-react-todo-list-sergio-c246-b1hnz7ysq.vercel.app/
 💻 Repositorio  
 https://github.com/SergioC246/Proyecto-React-TodoList-SergioC246
 
----
-
-## 📊 Mis Stats Reales
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SergioC246&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioC246&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" height="180"/>
-
-</div>
 
 ---
 
@@ -137,11 +126,12 @@ https://github.com/SergioC246/Proyecto-React-TodoList-SergioC246
 
 <div align="center">
 
-✨ Gracias por visitar mi GitHub  
+<!-- Banner de agradecimiento -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=1000&lines=✨+Gracias+por+visitar+mi+GitHub!;👨‍💻+Espero+que+mis+proyectos+te+hayan+gustado!;🚀+Sigue+creando+y+aprendiendo" />
 
-Si te interesa mi trabajo o quieres colaborar en algún proyecto  
-**no dudes en contactarme.**
+<br><br>
 
-Happy Coding 👨‍💻🚀
+<!-- Happy Coding animado -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=00FF7F&center=true&vCenter=true&width=900&lines=Happy+Coding+%F0%9F%91%8D+%F0%9F%9A%80+%F0%9F%94%A5" />
 
 </div>
