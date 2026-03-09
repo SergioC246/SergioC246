@@ -41,8 +41,8 @@ Actualmente estoy enfocado en mejorar mis habilidades en **JavaScript moderno y 
 🛒 Marketplace inteligente de trasteros que conecta a personas que buscan espacio de almacenaje con empresas que disponen espacios disponibles.
 
 **Tecnologías:** 
-Front-End: React • JavaScript • CSS • Bootstrap
-Back-End: Python • Flask • APIs • Node.js
+Front-End: React • JavaScript • CSS • Bootstrap  
+Back-End: Python • Flask • APIs • Node.js  
 Base de datos: MySQL • PostgreSQL
 
 🌐 Demo  
@@ -56,14 +56,10 @@ https://github.com/4GeeksAcademy/SP-124-TRASTEANDO
 ### ⭐ Star Wars Blog
 
 Blog interactivo inspirado en el universo de Star Wars que consume una API externa para mostrar personajes, planetas y vehículos. Permite navegar entre vistas detalladas y gestionar favoritos mediante estado global. 
-Desarrollada con enfoque en interactividad y experiencia de usuario.
 
-
-**Tecnologías:**
-Front-End: React • JavaScript • CSS • Bootstrap
+**Tecnologías:**  
+Front-End: React • JavaScript • CSS • Bootstrap  
 Back-End: Python • Flask • APIs • Node.js
-
-
 
 🌐 Demo  
 https://star-wars-blog-sergio-l4nqxn3hb-sergioc246s-projects.vercel.app/
@@ -101,13 +97,15 @@ https://github.com/SergioC246/Proyecto-React-TodoList-SergioC246
 
 ---
 
-# 📊 Estadísticas de GitHub
+# 📊 Mis Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SergioC246&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioC246&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://img.shields.io/badge/Front-End-React-yellow" />
+<img src="https://img.shields.io/badge/Back-End-Python-blue" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL-lightgrey" />
+<img src="https://img.shields.io/badge/Commits-⩾100-brightgreen" />
+<img src="https://img.shields.io/badge/Proyectos-4-orange" />
 
 </div>
 
