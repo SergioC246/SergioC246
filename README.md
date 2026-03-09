@@ -155,24 +155,18 @@ Consumes the SWAPI to display characters, planets and vehicles. Users can naviga
 
 ---
 
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-
 <a href="https://github.com/SergioC246">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioC246&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
 </a>
 <a href="https://github.com/SergioC246">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioC246&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </a>
-
 <br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SergioC246&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
 </div>
 
----
 
 ## 📈 Contribution Activity
 
