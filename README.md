@@ -101,9 +101,9 @@ https://github.com/SergioC246/Proyecto-React-TodoList-SergioC246
 
 <div align="center">
 
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioC246&show_icons=true&theme=radical)](https://github.com/SergioC246)
+<img src="https://github-readme-stats.vercel.app/api?username=SergioC246&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&include_all_commits=true" height="180"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioC246&layout=compact&theme=radical)](https://github.com/SergioC246)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioC246&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" height="180"/>
 
 </div>
 
