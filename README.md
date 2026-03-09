@@ -13,7 +13,7 @@
 
 Actualmente estoy enfocado en mejorar mis habilidades en **JavaScript moderno y React**, construyendo proyectos para fortalecer mi experiencia en **Front-End Development**.
 
-🚀 Mi objetivo es conseguir mi **primer trabajo como desarrollador web** y seguir creciendo en el mundo del desarrollo.
+🚀 Mi objetivo es conseguir **trabajo como desarrollador web** y seguir creciendo en el mundo del desarrollo.
 
 ---
 
