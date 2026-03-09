@@ -43,7 +43,7 @@ const sergio = {
   role:       "Full-Stack Developer",
   learning:   ["React", "Modern JavaScript", "REST APIs"],
   stack:      ["JavaScript", "React", "Python", "Flask", "PostgreSQL"],
-  goal:       "Land my first developer role & keep growing every day",
+  goal:       "Land a developer role & keep growing every day",
   available:  true  // 👈 Open to work!
 };
 ```
