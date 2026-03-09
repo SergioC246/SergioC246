@@ -1,11 +1,17 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hola+%F0%9F%91%8B+Soy+Sergio+C%C3%B3rdoba;Full-Stack+Developer;JavaScript+%7C+React+%7CPython" />
-
-</div>
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hola+%F0%9F%91%8B+Soy+Sergio+C%C3%B3rdoba;Full-Stack+Developer;JavaScript+%7C+React+%7C+Python+%7C+Flask" />
+<br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<br/>
+<p>
+  <a href="https://www.linkedin.com/in/sergio-córdoba-199bba150">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sergiocordoba246@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 </div>
 
 <p align="center">
@@ -27,9 +33,7 @@ Actualmente estoy enfocado en mejorar mis habilidades en **JavaScript moderno y 
 # 🛠 Tecnologías
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,python,postgresql&perline=4" />
-
 </div>
 
 ---
@@ -129,22 +133,6 @@ Actualmente estoy enfocado en mejorar mis habilidades en **JavaScript moderno y 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioC246&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 📫 Contacto
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sergio-córdoba-199bba150">
-  <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Córdoba-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<br><br>
-
-📧 **Email:** sergiocordoba246@gmail.com
 
 </div>
 
