@@ -42,6 +42,34 @@ Actualmente estoy enfocado en mejorar mis habilidades en **JavaScript moderno y 
 
 <div align="center">
 
+<div style="background:#0d1117; border-radius:15px; padding:20px; margin:10px; display:flex; gap:20px; box-shadow:0px 0px 10px rgba(0,0,0,0.5);">
+  <!-- Imagen del proyecto -->
+  <div style="flex:1;">
+    <img src="URL_DE_TU_IMAGEN_O_GIF" style="width:100%; border-radius:10px;">
+  </div>
+
+  <!-- Info del proyecto -->
+  <div style="flex:2; color:white;">
+    <h3>🏆 Trasteando Marketplace</h3>
+    <p>🛒 Marketplace inteligente de trasteros que conecta personas con espacios disponibles.</p>
+    <p>
+      <b>Front-End:</b> React • JS • CSS • Bootstrap<br>
+      <b>Back-End:</b> Python • Flask • Node.js<br>
+      <b>DB:</b> MySQL • PostgreSQL
+    </p>
+    <p>
+      <a href="https://trasteando-marketplace.vercel.app/" target="_blank">🌐 Demo</a> • 
+      <a href="https://github.com/4GeeksAcademy/SP-124-TRASTEANDO" target="_blank">💻 Repo</a>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
+    </p>
+  </div>
+</div>
+
 <!-- CARD 1 -->
 <div style="background:#0d1117; border-radius:15px; padding:20px; margin:10px; width:80%; text-align:left; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);">
 <h3>🏆 Trasteando Marketplace (Proyecto Principal)</h3>
