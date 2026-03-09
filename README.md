@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Soy Sergio Córdoba<br><br>- 🔭 Desarrollador Full Stack<br>- 📚 Actualmente estoy mejorando mis conocimeientos en React<br>- ⚡ En mi tiempo libre me gusta picar codigo</p>
+<p align="left"><h1>Soy Sergio Córdoba</h1><br><br>- 🔭 Desarrollador Full Stack<br>- 📚 Actualmente estoy mejorando mis conocimeientos en React<br>- ⚡ En mi tiempo libre me gusta picar codigo</p>
 
 ###
 
