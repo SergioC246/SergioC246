@@ -50,7 +50,7 @@ const sergio = {
 
 🎯 Currently focused on **React** and **modern JavaScript**, building real-world projects to sharpen my full-stack skills.  
 💡 Passionate about clean UI, interactive experiences, and learning by doing.  
-🤝 Looking for a **Junior Frontend or Fullstack Developer** opportunity where I can contribute and grow.
+🤝 Looking for a **Fullstack Developer** opportunity where I can contribute and grow.
 
 ---
 
