@@ -5,13 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/sergio-córdoba-199bba150">
+  <img src="https://img.shields.io/badge/LinkedIn-Sergio-blue?style=for-the-badge&logo=linkedin" />
+</a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SergioC246.SergioC246&"  />
 </div>
 
 ###
@@ -24,7 +26,15 @@
 
 ###
 
-<p align="left"><h1>Soy Sergio Córdoba</h1><br><br>- 🔭 Desarrollador Full Stack<br>- 📚 Actualmente estoy mejorando mis conocimeientos en React<br>- ⚡ En mi tiempo libre me gusta picar codigo</p>
+<p align="left">
+
+Soy **Sergio Córdoba**, desarrollador web en formación.
+
+🔭 Actualmente aprendiendo **React y desarrollo Full Stack**  
+📚 Estudiando **JavaScript moderno y desarrollo Front-End**  
+⚡ Me gusta construir proyectos y aprender nuevas tecnologías.
+
+</p>
 
 ###
 
