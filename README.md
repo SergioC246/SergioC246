@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Sergio%20C%C3%B3rdoba&fontSize=75&fontColor=58A6FF&fontAlignY=45&stroke=58A6FF&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Python%20%C2%B7%20Flask&descAlignY=65&descSize=22&animation=twinkling&fontAlign=50"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=👋+Hey%2C+I'm+Sergio+—+nice+to+meet+you!;🚀+Building+full-stack+web+applications;⚛️+React+%7C+JavaScript+%7C+Python+%7C+Flask;💼+Open+to+Junior+Frontend+%2F+Fullstack+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=👋+Hey%2C+I'm+Sergio+—+nice+to+meet+you!;🚀+Building+full-stack+web+applications;⚛️+React+%7C+JavaScript+%7C+Python+%7C+Flask;💼+Open+to+%2F+Fullstack+roles" alt="Typing SVG" />
 
 <br/>
 
