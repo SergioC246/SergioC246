@@ -1,13 +1,20 @@
-<h1 align="center">Hola 👋 Soy Sergio Córdoba</h1>
-<h3 align="center">Front-End Developer</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hola+%F0%9F%91%8B+Soy+Sergio+C%C3%B3rdoba;Front-End+Developer;JavaScript+%7C+React+%7C+Web+Development" />
+
+</div>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
+<p align="center">
+🚀 Construyendo proyectos • 💻 Aprendiendo React • 🎯 Buscando oportunidades
+</p>
+
 ---
 
-## 👨‍💻 Sobre mí
+# 👨‍💻 Sobre mí
 
 💻 Apasionado por el **desarrollo web** y la creación de proyectos interactivos.  
 
@@ -17,7 +24,7 @@ Actualmente estoy enfocado en mejorar mis habilidades en **JavaScript moderno y 
 
 ---
 
-## 🛠 Tecnologías
+# 🛠 Tecnologías
 
 <div align="center">
 
@@ -27,7 +34,7 @@ Actualmente estoy enfocado en mejorar mis habilidades en **JavaScript moderno y 
 
 ---
 
-## 🚀 Proyectos Destacados
+# 🚀 Proyectos Destacados
 
 🔹 **Todo App**  
 Aplicación para gestionar tareas construida con JavaScript.
@@ -45,7 +52,7 @@ Interfaz inspirada en Netflix para practicar layouts modernos.
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -57,7 +64,17 @@ Interfaz inspirada en Netflix para practicar layouts modernos.
 
 ---
 
-## 📫 Contacto
+# 📈 Actividad de desarrollo
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioC246&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Contacto
 
 <div align="center">
 
@@ -77,8 +94,8 @@ Interfaz inspirada en Netflix para practicar layouts modernos.
 
 ✨ Gracias por visitar mi GitHub  
 
-Si te interesa mi trabajo o quieres colaborar en algún proyecto,  
-**¡no dudes en contactarme!**
+Si te interesa mi trabajo o quieres colaborar en algún proyecto  
+**no dudes en contactarme.**
 
 Happy Coding 👨‍💻🚀
 
