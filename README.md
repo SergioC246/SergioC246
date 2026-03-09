@@ -97,15 +97,13 @@ https://github.com/SergioC246/Proyecto-React-TodoList-SergioC246
 
 ---
 
-# 📊 Mis Stats
+## 📊 Mis Stats Reales
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Front-End-React-yellow" />
-<img src="https://img.shields.io/badge/Back-End-Python-blue" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL-lightgrey" />
-<img src="https://img.shields.io/badge/Commits-⩾100-brightgreen" />
-<img src="https://img.shields.io/badge/Proyectos-4-orange" />
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioC246&show_icons=true&theme=radical)](https://github.com/SergioC246)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioC246&layout=compact&theme=radical)](https://github.com/SergioC246)
 
 </div>
 
