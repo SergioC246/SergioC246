@@ -1,159 +1,196 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hola+%F0%9F%91%8B+Soy+Sergio+C%C3%B3rdoba;Full-Stack+Developer;JavaScript+%7C+React+%7C+Python+%7C+Flask" />
+
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sergio%20C%C3%B3rdoba&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Python%20%C2%B7%20Flask&descAlignY=58&descSize=20&animation=fadeIn"/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+full-stack+web+applications+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Python+%7C+Flask;Open+to+Junior+Frontend+%2F+Fullstack+roles+%F0%9F%92%BC" alt="Typing SVG" />
+
 <br/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/sergio-córdoba-199bba150">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+&nbsp;
+<a href="mailto:sergiocordoba246@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+&nbsp;
+<a href="https://github.com/SergioC246">
+  <img src="https://img.shields.io/badge/GitHub-SergioC246-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=SergioC246&style=flat-square&color=58A6FF&label=Profile+Views"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const sergio = {
+  name:       "Sergio Córdoba",
+  location:   "Spain 🇪🇸",
+  role:       "Full-Stack Developer",
+  learning:   ["React", "Modern JavaScript", "REST APIs"],
+  stack:      ["JavaScript", "React", "Python", "Flask", "PostgreSQL"],
+  goal:       "Land my first developer role & keep growing every day",
+  available:  true  // 👈 Open to work!
+};
+```
+
+🎯 Currently focused on **React** and **modern JavaScript**, building real-world projects to sharpen my full-stack skills.  
+💡 Passionate about clean UI, interactive experiences, and learning by doing.  
+🤝 Looking for a **Junior Frontend or Fullstack Developer** opportunity where I can contribute and grow.
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Database**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏆 Trasteando Marketplace
+> *Intelligent storage marketplace connecting people with available spaces*
+
+| | |
+|---|---|
+| **Live Demo** | [🌐 trasteando-marketplace.vercel.app](https://trasteando-marketplace.vercel.app/) |
+| **Repository** | [💻 SP-124-TRASTEANDO](https://github.com/4GeeksAcademy/SP-124-TRASTEANDO) |
+| **Frontend** | React · JavaScript · CSS · Bootstrap |
+| **Backend** | Python · Flask · Node.js · REST APIs |
+| **Database** | MySQL · PostgreSQL |
+
+Full-stack marketplace where users can list and rent storage spaces. Features authentication, real-time search, and a complete booking flow.
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+
+---
+
+### ⭐ Star Wars Blog
+> *Interactive Star Wars universe blog with external API, detail pages and favorites*
+
+| | |
+|---|---|
+| **Live Demo** | [🌐 star-wars-blog-sergio...vercel.app](https://star-wars-blog-sergio-l4nqxn3hb-sergioc246s-projects.vercel.app/) |
+| **Repository** | [💻 Star-Wars-Blog-SergioC](https://github.com/4GeeksAcademy/Star-Wars-Blog-SergioC) |
+| **Frontend** | React · JavaScript · CSS · Bootstrap |
+| **Backend** | Python · Flask · REST APIs |
+
+Consumes the SWAPI to display characters, planets and vehicles. Users can navigate to detail views and manage a personal favorites list with persistent state.
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square)
+
+---
+
+### 🚦 React Traffic Light
+> *Interactive traffic light simulation — React state management practice*
+
+| | |
+|---|---|
+| **Live Demo** | [🌐 proyecto-semaforo-eight.vercel.app](https://proyecto-semaforo-eight.vercel.app/) |
+| **Repository** | [💻 ProyectoSemaforo_SergioC246](https://github.com/4GeeksAcademy/react-hello_ProyectoSemaforo_SergioC246) |
+| **Stack** | React · JavaScript |
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
+---
+
+### ✅ React Todo List
+> *Task management app built with React hooks and component state*
+
+| | |
+|---|---|
+| **Live Demo** | [🌐 proyecto-react-todo-list...vercel.app](https://proyecto-react-todo-list-sergio-c246-b1hnz7ysq.vercel.app/) |
+| **Repository** | [💻 Proyecto-React-TodoList-SergioC246](https://github.com/SergioC246/Proyecto-React-TodoList-SergioC246) |
+| **Stack** | React · JavaScript |
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioC246&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioC246&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
 <br/>
-<p>
-  <a href="https://www.linkedin.com/in/sergio-córdoba-199bba150">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sergiocordoba246@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioC246&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+
 </div>
 
-<p align="center">
-🚀 Construyendo proyectos • 💻 Aprendiendo React • 🎯 Buscando oportunidades
-</p>
-
 ---
 
-# 👨‍💻 Sobre mí
-
-💻 Apasionado por el **desarrollo web** y la creación de proyectos interactivos.  
-
-Actualmente estoy enfocado en mejorar mis habilidades en **JavaScript moderno y React**, construyendo proyectos para fortalecer mi experiencia en **Front-End Development**.
-
-🚀 Mi objetivo es conseguir **trabajo como desarrollador web** y seguir creciendo en el mundo del desarrollo.
-
----
-
-# 🛠 Tecnologías
+## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,python,postgresql&perline=4" />
-</div>
-
----
-
-# 🚀 Proyectos Destacados
-
-<div align="center" style="display:flex; flex-direction:column; gap:20px; align-items:center;">
-
-<!-- CARD 1 -->
-<div style="background:#0d1117; border-radius:15px; padding:20px; margin:10px; display:flex; gap:20px; width:90%; box-shadow:0px 0px 10px rgba(0,0,0,0.5);">
-  <!-- Imagen -->
-  <div style="flex:1;">
-    <img src="https://user-images.githubusercontent.com/yourusername/trasteando-gif.gif" style="width:100%; border-radius:10px;">
-  </div>
-  <!-- Info -->
-  <div style="flex:2; color:white;">
-    <h3>🏆 Trasteando Marketplace</h3>
-    <p>🛒 Marketplace inteligente de trasteros que conecta personas con espacios disponibles.</p>
-    <p>
-      <b>Front-End:</b> React • JavaScript • CSS • Bootstrap<br>
-      <b>Back-End:</b> Python • Flask • Node.js • APIs<br>
-      <b>Base de datos:</b> MySQL • PostgreSQL
-    </p>
-    <p>
-      <a href="https://trasteando-marketplace.vercel.app/" target="_blank">🌐 Demo</a> • 
-      <a href="https://github.com/4GeeksAcademy/SP-124-TRASTEANDO" target="_blank">💻 Repo</a>
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
-    </p>
-  </div>
-</div>
-
-<!-- CARD 2 -->
-<div style="background:#0d1117; border-radius:15px; padding:20px; margin:10px; display:flex; gap:20px; width:90%; box-shadow:0px 0px 10px rgba(0,0,0,0.5);">
-  <!-- Imagen -->
-  <div style="flex:1;">
-    <img src="https://user-images.githubusercontent.com/yourusername/starwars-gif.gif" style="width:100%; border-radius:10px;">
-  </div>
-  <!-- Info -->
-  <div style="flex:2; color:white;">
-    <h3>⭐ Star Wars Blog</h3>
-    <p>Blog interactivo del universo Star Wars con API externa, navegación detallada y gestión de favoritos.</p>
-    <p>
-      <b>Front-End:</b> React • JavaScript • CSS • Bootstrap<br>
-      <b>Back-End:</b> Python • Flask • Node.js • APIs
-    </p>
-    <p>
-      <a href="https://star-wars-blog-sergio-l4nqxn3hb-sergioc246s-projects.vercel.app/" target="_blank">🌐 Demo</a> • 
-      <a href="https://github.com/4GeeksAcademy/Star-Wars-Blog-SergioC" target="_blank">💻 Repo</a>
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-    </p>
-  </div>
-</div>
-
-<!-- CARD 3 -->
-<div style="background:#0d1117; border-radius:15px; padding:20px; margin:10px; display:flex; gap:20px; width:90%; box-shadow:0px 0px 10px rgba(0,0,0,0.5);">
-  <div style="flex:1;">
-    <img src="https://user-images.githubusercontent.com/yourusername/react-traffic-light.gif" style="width:100%; border-radius:10px;">
-  </div>
-  <div style="flex:2; color:white;">
-    <h3>🚦 React Traffic Light</h3>
-    <p>Simulación de semáforo interactivo para practicar lógica de estados en React.</p>
-    <p>
-      <b>Tecnologías:</b> React • JavaScript
-    </p>
-    <p>
-      <a href="https://proyecto-semaforo-eight.vercel.app/" target="_blank">🌐 Demo</a> • 
-      <a href="https://github.com/4GeeksAcademy/react-hello_ProyectoSemaforo_SergioC246" target="_blank">💻 Repo</a>
-    </p>
-  </div>
-</div>
-
-<!-- CARD 4 -->
-<div style="background:#0d1117; border-radius:15px; padding:20px; margin:10px; display:flex; gap:20px; width:90%; box-shadow:0px 0px 10px rgba(0,0,0,0.5);">
-  <div style="flex:1;">
-    <img src="https://user-images.githubusercontent.com/yourusername/react-todo-gif.gif" style="width:100%; border-radius:10px;">
-  </div>
-  <div style="flex:2; color:white;">
-    <h3>✅ React Todo List</h3>
-    <p>Aplicación de gestión de tareas construida con React.</p>
-    <p>
-      <b>Tecnologías:</b> React • JavaScript
-    </p>
-    <p>
-      <a href="https://proyecto-react-todo-list-sergio-c246-b1hnz7ysq.vercel.app/" target="_blank">🌐 Demo</a> • 
-      <a href="https://github.com/SergioC246/Proyecto-React-TodoList-SergioC246" target="_blank">💻 Repo</a>
-    </p>
-  </div>
-</div>
-
-</div>
-
----
-
-# 📈 Actividad de desarrollo
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioC246&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioC246&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=1000&lines=✨+Gracias+por+visitar+mi+GitHub!;👨‍💻+Espero+que+mis+proyectos+te+hayan+gustado!;🚀+Sigue+creando+y+aprendiendo" />
-<br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=00FF7F&center=true&vCenter=true&width=900&lines=Happy+Coding+%F0%9F%91%8D+%F0%9F%9A%80+%F0%9F%94%A5" />
+
+**💼 Open to work — Junior Frontend / Fullstack Developer**
+
+*If you think I'd be a good fit for your team, let's talk!*
+
+<a href="mailto:sergiocordoba246@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sergio-córdoba-199bba150">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
 </div>
