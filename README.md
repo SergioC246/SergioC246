@@ -1,20 +1,25 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sergio%20C%C3%B3rdoba&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Python%20%C2%B7%20Flask&descAlignY=58&descSize=20&animation=fadeIn"/>
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Sergio%20C%C3%B3rdoba&fontSize=75&fontColor=58A6FF&fontAlignY=45&stroke=58A6FF&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Python%20%C2%B7%20Flask&descAlignY=65&descSize=22&animation=twinkling&fontAlign=50"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+full-stack+web+applications+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Python+%7C+Flask;Open+to+Junior+Frontend+%2F+Fullstack+roles+%F0%9F%92%BC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=👋+Hey%2C+I'm+Sergio+—+nice+to+meet+you!;🚀+Building+full-stack+web+applications;⚛️+React+%7C+JavaScript+%7C+Python+%7C+Flask;💼+Open+to+Junior+Frontend+%2F+Fullstack+roles" alt="Typing SVG" />
 
 <br/>
 
+<!-- GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:16px;"/>
+
+<br/><br/>
+
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/sergio-córdoba-199bba150">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:sergiocordoba246@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/SergioC246">
@@ -23,7 +28,6 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=SergioC246&style=flat-square&color=58A6FF&label=Profile+Views"/>
 
 </div>
@@ -155,13 +159,18 @@ Consumes the SWAPI to display characters, planets and vehicles. Users can naviga
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioC246&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioC246&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<a href="https://github.com/SergioC246">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioC246&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
+<a href="https://github.com/SergioC246">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioC246&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioC246&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=SergioC246&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -170,27 +179,52 @@ Consumes the SWAPI to display characters, planets and vehicles. Users can naviga
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioC246&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioC246&theme=tokyo-night&hide_border=true&color=58A6FF&line=58A6FF&point=ffffff"/>
 </div>
 
 ---
 
+<!-- EPIC CTA FOOTER -->
 <div align="center">
 
-**💼 Open to work — Junior Frontend / Fullstack Developer**
-
-*If you think I'd be a good fit for your team, let's talk!*
-
-<a href="mailto:sergiocordoba246@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sergio-córdoba-199bba150">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=💼+Available+for+hire+—+right+now.;🚀+Let's+build+something+great+together.;📩+One+message+away+from+your+next+dev." alt="CTA Typing"/>
+
+<br/>
+
+<table border="0" align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎯 Why hire me?
+
+✅ Fast learner — I pick up new tech quickly  
+✅ Full-stack skills — frontend *and* backend  
+✅ Shipped real projects — not just tutorials  
+✅ Motivated & committed to grow every day  
+
+</td>
+<td align="center" width="50%">
+
+### 📬 Let's connect
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiocordoba246@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-córdoba-199bba150)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=aaaaaa&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+✨;Happy+Coding+🚀+Keep+building+🔥;See+you+on+the+other+side+of+the+screen+👋" alt="Footer Typing"/>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&text=Let's%20work%20together!&fontSize=28&fontColor=58A6FF&fontAlignY=70&animation=twinkling"/>
 
 </div>
