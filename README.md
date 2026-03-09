@@ -38,12 +38,87 @@ Actualmente estoy enfocado en mejorar mis habilidades en **JavaScript moderno y 
 
 <div align="center">
 
-| Proyecto | Demo | Repositorio | Tecnologías |
-|----------|------|------------|------------|
-| 🏆 **Trasteando Marketplace** | [🌐 Demo](https://trasteando-marketplace.vercel.app/) | [💻 Repo](https://github.com/4GeeksAcademy/SP-124-TRASTEANDO) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) |
-| ⭐ **Star Wars Blog** | [🌐 Demo](https://star-wars-blog-sergio-l4nqxn3hb-sergioc246s-projects.vercel.app/) | [💻 Repo](https://github.com/4GeeksAcademy/Star-Wars-Blog-SergioC) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
-| 🚦 **React Traffic Light** | [🌐 Demo](https://proyecto-semaforo-eight.vercel.app/) | [💻 Repo](https://github.com/4GeeksAcademy/react-hello_ProyectoSemaforo_SergioC246) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| ✅ **React Todo List** | [🌐 Demo](https://proyecto-react-todo-list-sergio-c246-b1hnz7ysq.vercel.app/) | [💻 Repo](https://github.com/SergioC246/Proyecto-React-TodoList-SergioC246) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+<!-- CARD 1 -->
+<div style="background:#0d1117; border-radius:15px; padding:20px; margin:10px; width:80%; text-align:left; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);">
+<h3>🏆 Trasteando Marketplace (Proyecto Principal)</h3>
+<p>🛒 Marketplace inteligente de trasteros que conecta personas con espacios disponibles.</p>
+<p>
+<b>Front-End:</b> React • JavaScript • CSS • Bootstrap<br>
+<b>Back-End:</b> Python • Flask • Node.js • APIs<br>
+<b>Base de datos:</b> MySQL • PostgreSQL
+</p>
+<p>
+<a href="https://trasteando-marketplace.vercel.app/" target="_blank">🌐 Demo</a> • 
+<a href="https://github.com/4GeeksAcademy/SP-124-TRASTEANDO" target="_blank">💻 Repo</a>
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
+</p>
+</div>
+
+<!-- CARD 2 -->
+<div style="background:#0d1117; border-radius:15px; padding:20px; margin:10px; width:80%; text-align:left; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);">
+<h3>⭐ Star Wars Blog</h3>
+<p>Blog interactivo del universo Star Wars con API externa, navegación detallada y gestión de favoritos.</p>
+<p>
+<b>Front-End:</b> React • JavaScript • CSS • Bootstrap<br>
+<b>Back-End:</b> Python • Flask • Node.js • APIs
+</p>
+<p>
+<a href="https://star-wars-blog-sergio-l4nqxn3hb-sergioc246s-projects.vercel.app/" target="_blank">🌐 Demo</a> • 
+<a href="https://github.com/4GeeksAcademy/Star-Wars-Blog-SergioC" target="_blank">💻 Repo</a>
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+</p>
+</div>
+
+<!-- CARD 3 -->
+<div style="background:#0d1117; border-radius:15px; padding:20px; margin:10px; width:80%; text-align:left; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);">
+<h3>🚦 React Traffic Light</h3>
+<p>Simulación de semáforo interactivo para practicar lógica de estados en React.</p>
+<p>
+<b>Tecnologías:</b> React • JavaScript
+</p>
+<p>
+<a href="https://proyecto-semaforo-eight.vercel.app/" target="_blank">🌐 Demo</a> • 
+<a href="https://github.com/4GeeksAcademy/react-hello_ProyectoSemaforo_SergioC246" target="_blank">💻 Repo</a>
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+</p>
+</div>
+
+<!-- CARD 4 -->
+<div style="background:#0d1117; border-radius:15px; padding:20px; margin:10px; width:80%; text-align:left; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);">
+<h3>✅ React Todo List</h3>
+<p>Aplicación de gestión de tareas construida con React.</p>
+<p>
+<b>Tecnologías:</b> React • JavaScript
+</p>
+<p>
+<a href="https://proyecto-react-todo-list-sergio-c246-b1hnz7ysq.vercel.app/" target="_blank">🌐 Demo</a> • 
+<a href="https://github.com/SergioC246/Proyecto-React-TodoList-SergioC246" target="_blank">💻 Repo</a>
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+</p>
+</div>
 
 </div>
 ---
