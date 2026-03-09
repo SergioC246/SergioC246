@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Sergio%20C%C3%B3rdoba&fontSize=75&fontColor=58A6FF&fontAlignY=45&stroke=58A6FF&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Python%20%C2%B7%20Flask&descAlignY=65&descSize=22&animation=twinkling&fontAlign=50"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=👋+Hey%2C+I'm+Sergio+—+nice+to+meet+you!;🚀+Building+full-stack+web+applications;⚛️+React+%7C+JavaScript+%7C+Python+%7C+Flask;💼+Open+to+Junior+Frontend+%2F+Fullstack+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=👋+Hey%2C+I'm+Sergio+—+nice+to+meet+you!;🚀+Building+full-stack+web+applications;⚛️+React+%7C+JavaScript+%7C+Python+%7C+Flask;💼+Open+to+Junior+Frontend+%2F+Fullstack+roles" alt="Typing SVG" />
 
 <br/>
 
@@ -160,17 +160,15 @@ Consumes the SWAPI to display characters, planets and vehicles. Users can naviga
 <div align="center">
 
 <a href="https://github.com/SergioC246">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioC246&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioC246&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
 </a>
 <a href="https://github.com/SergioC246">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioC246&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioC246&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </a>
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=SergioC246&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SergioC246&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -191,7 +189,7 @@ Consumes the SWAPI to display characters, planets and vehicles. Users can naviga
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=💼+Available+for+hire+—+right+now.;🚀+Let's+build+something+great+together.;📩+One+message+away+from+your+next+dev." alt="CTA Typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=💼+Available+for+hire+—+right+now.;🚀+Let's+build+something+great+together.;📩+One+message+away+from+your+next+dev." alt="CTA Typing"/>
 
 <br/>
 
@@ -221,7 +219,7 @@ Consumes the SWAPI to display characters, planets and vehicles. Users can naviga
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=aaaaaa&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+✨;Happy+Coding+🚀+Keep+building+🔥;See+you+on+the+other+side+of+the+screen+👋" alt="Footer Typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=aaaaaa&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+✨;Happy+Coding+🚀+Keep+building+🔥;See+you+on+the+other+side+of+the+screen+👋" alt="Footer Typing"/>
 
 <br/>
 
