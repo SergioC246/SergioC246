@@ -36,66 +36,16 @@ Actualmente estoy enfocado en mejorar mis habilidades en **JavaScript moderno y 
 
 # 🚀 Proyectos Destacados
 
-### 🏆 Trasteando Marketplace (Proyecto Principal)
+<div align="center">
 
-🛒 Marketplace inteligente de trasteros que conecta a personas que buscan espacio de almacenaje con empresas que disponen espacios disponibles.
+| Proyecto | Demo | Repositorio | Tecnologías |
+|----------|------|------------|------------|
+| 🏆 **Trasteando Marketplace** | [🌐 Demo](https://trasteando-marketplace.vercel.app/) | [💻 Repo](https://github.com/4GeeksAcademy/SP-124-TRASTEANDO) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) |
+| ⭐ **Star Wars Blog** | [🌐 Demo](https://star-wars-blog-sergio-l4nqxn3hb-sergioc246s-projects.vercel.app/) | [💻 Repo](https://github.com/4GeeksAcademy/Star-Wars-Blog-SergioC) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
+| 🚦 **React Traffic Light** | [🌐 Demo](https://proyecto-semaforo-eight.vercel.app/) | [💻 Repo](https://github.com/4GeeksAcademy/react-hello_ProyectoSemaforo_SergioC246) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| ✅ **React Todo List** | [🌐 Demo](https://proyecto-react-todo-list-sergio-c246-b1hnz7ysq.vercel.app/) | [💻 Repo](https://github.com/SergioC246/Proyecto-React-TodoList-SergioC246) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 
-**Tecnologías:** 
-Front-End: React • JavaScript • CSS • Bootstrap  
-Back-End: Python • Flask • APIs • Node.js  
-Base de datos: MySQL • PostgreSQL
-
-🌐 Demo  
-https://trasteando-marketplace.vercel.app/
-
-💻 Repositorio  
-https://github.com/4GeeksAcademy/SP-124-TRASTEANDO
-
----
-
-### ⭐ Star Wars Blog
-
-Blog interactivo inspirado en el universo de Star Wars que consume una API externa para mostrar personajes, planetas y vehículos. Permite navegar entre vistas detalladas y gestionar favoritos mediante estado global. 
-
-**Tecnologías:**  
-Front-End: React • JavaScript • CSS • Bootstrap  
-Back-End: Python • Flask • APIs • Node.js
-
-🌐 Demo  
-https://star-wars-blog-sergio-l4nqxn3hb-sergioc246s-projects.vercel.app/
-
-💻 Repositorio  
-https://github.com/4GeeksAcademy/Star-Wars-Blog-SergioC
-
----
-
-### 🚦 React Traffic Light
-
-Simulación de un semáforo interactivo para practicar lógica de estados en React.
-
-**Tecnologías:** React • JavaScript  
-
-🌐 Demo  
-https://proyecto-semaforo-eight.vercel.app/
-
-💻 Repositorio  
-https://github.com/4GeeksAcademy/react-hello_ProyectoSemaforo_SergioC246
-
----
-
-### ✅ React Todo List
-
-Aplicación de gestión de tareas con React.
-
-**Tecnologías:** React • JavaScript  
-
-🌐 Demo  
-https://proyecto-react-todo-list-sergio-c246-b1hnz7ysq.vercel.app/
-
-💻 Repositorio  
-https://github.com/SergioC246/Proyecto-React-TodoList-SergioC246
-
-
+</div>
 ---
 
 # 📈 Actividad de desarrollo
