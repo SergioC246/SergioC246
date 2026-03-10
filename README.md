@@ -94,7 +94,7 @@ const sergio = {
 | | |
 |---|---|
 | **Live Demo** | [🌐 trasteando-marketplace.vercel.app](https://trasteando-marketplace.vercel.app/) |
-| **Repository** | [💻 SP-124-TRASTEANDO](https://github.com/4GeeksAcademy/SP-124-TRASTEANDO) |
+| **Repository** | [💻 SP-124-TRASTEANDO](https://github.com/SergioC246/SP-124-TRASTEANDO) |
 | **Frontend** | React · JavaScript · CSS · Bootstrap |
 | **Backend** | Python · Flask · Node.js · REST APIs |
 | **Database** | MySQL · PostgreSQL |
