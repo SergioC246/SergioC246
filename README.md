@@ -115,7 +115,7 @@ Full-stack marketplace where users can list and rent storage spaces. Features au
 | | |
 |---|---|
 | **Live Demo** | [🌐 star-wars-blog-sergio...vercel.app](https://star-wars-blog-sergio-c.vercel.app) |
-| **Repository** | [💻 Star-Wars-Blog-SergioC](https://github.com/4GeeksAcademy/Star-Wars-Blog-SergioC) |
+| **Repository** | [💻 Star-Wars-Blog-SergioC](https://github.com/SergioC246/Star-Wars-Blog-SergioC) |
 | **Frontend** | React · JavaScript · CSS · Bootstrap |
 | **Backend** | Python · Flask · REST APIs |
 
