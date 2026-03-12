@@ -41,8 +41,7 @@ const sergio = {
   name:       "Sergio Córdoba",
   location:   "Spain 🇪🇸",
   role:       "Full-Stack Developer",
-  learning:   ["React", "Modern JavaScript", "REST APIs"],
-  stack:      ["JavaScript", "React", "Python", "Flask", "PostgreSQL"],
+  stack:      ["JavaScript", "React", "Python", "Flask", "PostgreSQL", "Node.js"],
   goal:       "Land a developer role & keep growing every day",
   available:  true  // 👈 Open to work!
 };
@@ -72,13 +71,14 @@ const sergio = {
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools & Workflow**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -89,73 +89,51 @@ const sergio = {
 ## 🚀 Featured Projects
 
 ### 🏆 Trasteando Marketplace
-> *Intelligent storage marketplace connecting people with available spaces*
+> *Full-stack storage rental marketplace with AI, real-time chat and payments*
 
 | | |
 |---|---|
 | **Live Demo** | [🌐 trasteando-marketplace.vercel.app](https://trasteando-marketplace.vercel.app/) |
 | **Repository** | [💻 SP-124-TRASTEANDO](https://github.com/SergioC246/SP-124-TRASTEANDO) |
-| **Frontend** | React · JavaScript · CSS · Bootstrap |
-| **Backend** | Python · Flask · Node.js · REST APIs |
-| **Database** | MySQL · PostgreSQL |
+| **Frontend** | React · JavaScript · Bootstrap · CSS3 |
+| **Backend** | Python · Flask · SQLAlchemy · JWT |
+| **Database** | PostgreSQL (Neon) |
+| **Extras** | OpenAI Vision · Stripe Payments · Socket.IO · Google Maps |
 
-Full-stack marketplace where users can list and rent storage spaces. Features authentication, real-time search, and a complete booking flow.
+Marketplace platform where companies can list storage units and clients can search, book and pay for them. Features role-based authentication (client/company/admin), interactive map with geolocation, real-time chat via Socket.IO, Stripe subscription payments and an AI-powered inventory system using OpenAI Vision.
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white&style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=flat-square)
 
 ---
 
 ### ⭐ Star Wars Blog
-> *Interactive Star Wars universe blog with external API, detail pages and favorites*
+> *Full-stack Star Wars universe explorer with authentication and persistent favorites*
 
 | | |
 |---|---|
-| **Live Demo** | [🌐 star-wars-blog-sergio...vercel.app](https://star-wars-blog-sergio-c.vercel.app) |
+| **Live Demo** | [🌐 star-wars-blog-sergio-c.vercel.app](https://star-wars-blog-sergio-c.vercel.app) |
 | **Repository** | [💻 Star-Wars-Blog-SergioC](https://github.com/SergioC246/Star-Wars-Blog-SergioC) |
 | **Frontend** | React · JavaScript · CSS · Bootstrap |
-| **Backend** | Python · Flask · REST APIs |
+| **Backend** | Node.js · Express · SQLite |
+| **Auth** | Auth0 |
 
-Consumes the SWAPI to display characters, planets and vehicles. Users can navigate to detail views and manage a personal favorites list with persistent state.
+Consumes the SWAPI to display characters, planets and starships with detail pages. Users authenticate via Auth0 and manage a personal favorites list that persists in a SQLite database via a custom Node/Express backend.
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 
 ---
 
-### 🚦 React Traffic Light
-> *Interactive traffic light simulation — React state management practice*
+## 📊 GitHub Stats
 
-| | |
-|---|---|
-| **Live Demo** | [🌐 proyecto-semaforo-eight.vercel.app](https://proyecto-semaforo-eight.vercel.app/) |
-| **Repository** | [💻 ProyectoSemaforo_SergioC246](https://github.com/4GeeksAcademy/react-hello_ProyectoSemaforo_SergioC246) |
-| **Stack** | React · JavaScript |
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-
----
-
-### ✅ React Todo List
-> *Task management app built with React hooks and component state*
-
-| | |
-|---|---|
-| **Live Demo** | [🌐 proyecto-react-todo-list...vercel.app](https://proyecto-react-todo-list-sergio-c246-b1hnz7ysq.vercel.app/) |
-| **Repository** | [💻 Proyecto-React-TodoList-SergioC246](https://github.com/SergioC246/Proyecto-React-TodoList-SergioC246) |
-| **Stack** | React · JavaScript |
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-
----
-
-📊 GitHub Stats
 <div align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SergioC246&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 &nbsp;
@@ -164,6 +142,7 @@ Consumes the SWAPI to display characters, planets and vehicles. Users can naviga
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SergioC246&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+---
 
 ## 📈 Contribution Activity
 
@@ -173,7 +152,6 @@ Consumes the SWAPI to display characters, planets and vehicles. Users can naviga
 
 ---
 
-<!-- EPIC CTA FOOTER -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4"/>
