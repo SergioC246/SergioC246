@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Sergio%20C%C3%B3rdoba&fontSize=75&fontColor=58A6FF&fontAlignY=45&stroke=58A6FF&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Python%20%C2%B7%20Flask&descAlignY=65&descSize=22&animation=twinkling&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Sergio%20C%C3%B3rdoba&fontSize=75&fontColor=58A6FF&fontAlignY=45&stroke=58A6FF&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Flask&descAlignY=65&descSize=22&animation=twinkling&fontAlign=50"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=👋+Hey%2C+I'm+Sergio+—+nice+to+meet+you!;🚀+Building+full-stack+web+applications;⚛️+React+%7C+JavaScript+%7C+Python+%7C+Flask;💼+Open+to+Fullstack+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=👋+Hey%2C+I'm+Sergio+—+nice+to+meet+you!;🚀+Building+full-stack+web+applications;⚛️+React+%7C+TypeScript+%7C+JavaScript+%7C+Python+%7C+Flask;💼+Open+to+Fullstack+roles" alt="Typing SVG" />
 
 <br/>
 
@@ -41,13 +41,13 @@ const sergio = {
   name:       "Sergio Córdoba",
   location:   "Spain 🇪🇸",
   role:       "Full-Stack Developer",
-  stack:      ["JavaScript", "React", "Python", "Flask", "PostgreSQL", "Node.js"],
+  stack:      ["JavaScript", "TypeScript", "React", "Python", "Flask", "PostgreSQL", "Node.js"],
   goal:       "Land a developer role & keep growing every day",
   available:  true  // 👈 Open to work!
 };
 ```
 
-🎯 Currently focused on **React** and **modern JavaScript**, building real-world projects to sharpen my full-stack skills.  
+🎯 Currently focused on **React**, **TypeScript** and **modern JavaScript**, building real-world projects to sharpen my full-stack skills.  
 💡 Passionate about clean UI, interactive experiences, and learning by doing.  
 🤝 Looking for a **Fullstack Developer** opportunity where I can contribute and grow.
 
@@ -62,7 +62,9 @@ const sergio = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend & Database**
@@ -70,6 +72,7 @@ const sergio = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -109,6 +112,30 @@ Marketplace platform where companies can list storage units and clients can sear
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white&style=flat-square)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=flat-square)
+
+---
+
+### 🎬 CineTrack
+> *Full-stack personal movie tracking app with TMDB integration and Google login*
+
+| | |
+|---|---|
+| **Live Demo** | [🌐 cine-track-zeta.vercel.app](https://cine-track-zeta.vercel.app) |
+| **Repository** | [💻 CineTrack](https://github.com/SergioC246/CineTrack) |
+| **Frontend** | React · TypeScript · Tailwind CSS · Vite |
+| **Backend** | Node.js · Express · TypeScript |
+| **Database** | PostgreSQL (Railway) |
+| **Auth** | JWT + Auth0 (Google OAuth) |
+| **Extras** | TMDB API · Stats Dashboard · Full CRUD |
+
+Personal movie journal where users can search real films via TMDB, track their watchlist with posters and personal reviews, and manage their collection with a stats dashboard. Features dual authentication (email/password JWT + Google via Auth0), full edit/delete capabilities and a responsive poster grid layout.
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 
 ---
 
